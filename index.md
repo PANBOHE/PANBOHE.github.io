@@ -20,9 +20,9 @@ detection.***
 
 ## Education
 
-* ***Ph.D in Computer Science, Shanghai Jiao Tong University, 2015.***
-* ***M.S. in Computer Science, Nanjing University of Science and Technology, 2010.***
-* ***B.E. in Computer Science, Nanjing University of Technology, 2006.***
+<!-- * ***Ph.D in Computer Science, Shanghai Jiao Tong University, 2015.*** -->
+* ***M.S. in Computer Science, University of Shanghai for Science and Technology, 2015.***
+* ***B.E. in Computer Science, Xi’an University of Finance and Economics, 2010.***
 
 ## Academic Experience
 
