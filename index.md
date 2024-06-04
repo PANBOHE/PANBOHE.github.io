@@ -1,3 +1,10 @@
+<!--
+ * @Description: 
+ * @Author: Panbo Hey
+ * @Date: 2024-06-03 08:52:18
+ * @LastEditTime: 2024-06-04 18:00:50
+ * @LastEditors: Panbo Hey
+-->
 ---
 layout: default
 ---
@@ -16,7 +23,8 @@ layout: default
 
 ***Deep vision, image processing, analysis and recognition, mainly include the following aspects:image segmentation,
 object tracking, image generation, image recovery(denoising, enhancement, deblurring), unsupervised anomaly
-detection.***
+detection.
+LLM, base on Text, RAG,Langchain,llamaindex,Finetuning and chat bot***
 
 ## Education
 
@@ -26,9 +34,9 @@ detection.***
 
 ## Academic Experience
 
-> ***<font color=Red>Stanford University</font> academic exchange for 3 months, 2018.***
->
-> ***<font color=Red>Hong Kong Polytechnic University</font> academic exchange for 1 month, 2019.***
+> ***<font color=Red>HOCHSCHULE COBURG</font> academic exchange for Master degree, 2018.***
+> ***<font color=Red>The Institue of Sensor and Actuato Technology</font> master thesis internship for 6 month, 2017.***
+> ***<font color=Red>Siemens Campus Erlangen</font> internship for 3 month, 2017.***
 
 ## Appointment
 
