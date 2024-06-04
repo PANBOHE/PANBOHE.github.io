@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: Panbo Hey
  * @Date: 2024-06-03 08:52:18
- * @LastEditTime: 2024-06-04 18:00:50
+ * @LastEditTime: 2024-06-04 18:03:02
  * @LastEditors: Panbo Hey
 -->
 ---
@@ -35,7 +35,9 @@ LLM, base on Text, RAG,Langchain,llamaindex,Finetuning and chat bot***
 ## Academic Experience
 
 > ***<font color=Red>HOCHSCHULE COBURG</font> academic exchange for Master degree, 2018.***
+>
 > ***<font color=Red>The Institue of Sensor and Actuato Technology</font> master thesis internship for 6 month, 2017.***
+>
 > ***<font color=Red>Siemens Campus Erlangen</font> internship for 3 month, 2017.***
 
 ## Appointment
