@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: Panbo Hey
  * @Date: 2024-06-03 08:52:18
- * @LastEditTime: 2024-06-04 18:05:33
+ * @LastEditTime: 2024-06-05 09:44:39
  * @LastEditors: Panbo Hey
 -->
 <!-- ---
@@ -52,7 +52,18 @@ Journal of Electronics and Information Technology, Journal of Chinese Journal of
 
 |                                                                    |                                                                                                                                 |
 |:-------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------|
-| [![img_4.png](img_4.png)](https://arxiv.org/pdf/2211.10052.pdf)    | ***[Pedestrian Spatio-Temporal Information Fusion For Video Anomaly Detection](https://arxiv.org/pdf/2211.10052.pdf)***         |
+* ***[Panbo He, Chunxue Wu, Rami Yared, Yuanhao Ma, "HRM: An Intelligent Helmet Recognition Model in Complex Scenes", Advances in Mathematical Physics, vol. 2022, Article ID 1352775, 10 pages, 2022. https://doi.org/10.1155/2022/1352775](https://www.hindawi.com/journals/amp/2022/1352775/)***
+* ***[He, P., Wu, C., Liu, K., Xiong, N.N. (2021). Deep Reinforcement Learning Based on Spatial-Temporal Context for IoT Video Sensors Object Tracking. In: Qiu, M. (eds) Smart Computing and Communication. SmartCom 2020. Lecture Notes in Computer Science(), vol 12608. Springer, Cham. https://doi.org/10.1007/978-3-030-74717-6_24](https://link.springer.com/chapter/10.1007/978-3-030-74717-6_24)***
+* ***[Yijian Zhu, Shengting sun, Panbo HE. Mask Recognition and Detection Method Based on Improved Yolov3. Data Science And Industrial Internet. Sep.2019, Volume2, Issue 2, pp107-112]***
+* ***[贺盼博, 邬春学. 基于多约束条件的改进遗传算法路径规划[J]. 软件导刊, 2018, 17(7):5.]***
+* ***[孙盛婷, 贺盼博, 马远浩. 基于二元卷积神经网络的快速目标检测法[J]. 电子技术与软件工程, 2020(9):4.]***
+* ***[戴长江, 马远浩，贺盼博. 基于端到端框架的食品图像检测法[J]. 电子技术与软件工程, 2021(9):4.]***
+
+
+**For other academic achievements, please refer to relevant journals.**
+
+
+<!-- | [![img_4.png](img_4.png)](https://arxiv.org/pdf/2211.10052.pdf)    | ***[Pedestrian Spatio-Temporal Information Fusion For Video Anomaly Detection](https://arxiv.org/pdf/2211.10052.pdf)***         |
 | [![img_5.png](img_5.png)](https://arxiv.org/pdf/2108.11055.pdf)    | ***[Normal Learning in Videos with Attention Prototype Network](https://arxiv.org/pdf/2108.11055.pdf)***                        |
 | [![img_6.png](img_6.png)](https://arxiv.org/pdf/2212.05786.pdf)    | ***[Multi-scale Feature Imitation for Unsupervised Anomaly Localization](https://arxiv.org/pdf/2212.05786.pdf)***               |
 | [![img_7.png](img_7.png)](https://arxiv.org/pdf/2212.01528v1.pdf)  | ***[IDMS: Instance Depth for Multi-scale Monocular 3D Object Detection](https://arxiv.org/pdf/2212.01528v1.pdf)***              |
@@ -64,6 +75,6 @@ Journal of Electronics and Information Technology, Journal of Chinese Journal of
 * ***[Application Strategy of Security Detection Technology in the Background of Computer Vision](https://liuluyanglly.github.io/)***
 * ***[A Fast Monocular 3D Object Detection Fusing Instance Depth](https://liuluyanglly.github.io/)***
 
-**For other academic achievements, please refer to relevant journals.**
+**For other academic achievements, please refer to relevant journals.** -->
 
 
