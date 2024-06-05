@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: Panbo Hey
  * @Date: 2024-06-03 08:52:18
- * @LastEditTime: 2024-06-05 09:50:33
+ * @LastEditTime: 2024-06-05 09:55:21
  * @LastEditors: Panbo Hey
 -->
 <!-- ---
@@ -46,7 +46,9 @@ LLM, base on Text, RAG,Langchain,llamaindex,Finetuning and chat bot***
 on Image Processing, Pattern Recognition, IEEE Transactions on Signal Processing,</font> International Journal of Image
 and Graphics, Computerized Medical Imaging and Graphics, Computer Methods and Programs in Biomedicine, Journal of Visual
 Communication and Image Representation, Signal Processing, Journal of Computer-Aided Design and Computer Graphics,
-Journal of Electronics and Information Technology, Journal of Chinese Journal of Image and Graphics, etc.***
+Journal of Electronics and Information Technology, Journal of Chinese Journal of Image and Graphics, etc.
+上海市中级专业技术职称证书-图像识别和处理-工程师
+华为云认证-高级开发者***
 
 ## Publications
 
